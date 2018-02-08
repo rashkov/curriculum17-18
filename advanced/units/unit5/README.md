@@ -16,6 +16,6 @@ In this unit, coders will create a Giphy App. The Giphy App will take a search t
 |:-------:|-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_30)|  <li> Plan and set up projcect </li> <li> Implement a keypress function. </li>|Add Styling|
 |[**2**](https://docs.google.com/presentation/d/1uWU4nHS8CMj-2W48sdxR5TZgt89nOG6lC-CSndcUaow/edit#slide=id.g1e220fa94a_0_30)| <li> Identify an API and navigate data in a JSON response. </li> <li> Create and AJAX, Get Request. </li> |Work on Project|
-|[**3**](https://docs.google.com/presentation/d/1GFKdyTcWlzaDKDXMorUYKfMpQohJ2xd_MNP66zGyOEI/edit#slide=id.g1e220fa94a_0_30)| <li> Handle response object from AJAX success function. </li> <li> [3.2] Randomly display item from JSON. </li> |Submit Project|
+|[**3**](https://docs.google.com/presentation/d/1GFKdyTcWlzaDKDXMorUYKfMpQohJ2xd_MNP66zGyOEI/edit#slide=id.g1e220fa94a_0_30)| <li> Handle response object from AJAX success function. </li> <li> Randomly display item from JSON. </li> |Submit Project|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-6-giphy">Contribute to the Wiki</a></h3>
